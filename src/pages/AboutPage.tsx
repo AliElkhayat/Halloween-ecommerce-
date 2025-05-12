@@ -1,3 +1,4 @@
+
 import { Ghost, Candy, Heart } from "lucide-react";
 
 const AboutPage = () => {
