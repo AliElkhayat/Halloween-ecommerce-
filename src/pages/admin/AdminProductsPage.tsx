@@ -39,7 +39,6 @@ import {
   TableRow,
 } from "@/components/ui/table";
 
-// Mock products data
 const products = [
   {
     id: 1,

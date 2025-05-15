@@ -1,4 +1,5 @@
 
+
 import { FileText } from "lucide-react";
 
 const TermsPage = () => {
