@@ -14,6 +14,7 @@ const mockProduct = {
   price: 49.99,
   category: "Decorations",
   images: [
+"https://images.unsplash.com/photo-1508361001413-7a9dca21d08a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3"  ],
   stock: 10,
   featured: true
 };
